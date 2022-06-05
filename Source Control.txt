@@ -1,0 +1,16 @@
+1.1 Source Control Discussion Board
+Find 5 Projects that I find interesting on GitHub
+WhatsApp/stickers: This repository contains Android sample apps and API for creating third party sticker packs for WhatsApp. I am interested in making stickers and since I am an Android user, I use WhatsApp a lot so when I searched “stickers” this was the first thing that caught my attention. There are instructions on how you can publish your own sticker app to the Google Play Store which allows users to download and install the app for use right away within WhatsApp. This got me intrigued not only making my own stickers possibly in the future but also the idea of creating your own app seems encouraging. 
+Link to repo: https://github.com/WhatsApp/stickers/tree/main/Android: 
+
+StickerCamera: This is another very cool sticker project that I thought was really cool. It is a camera app that allows image cropping and sticker collaging on photos. Seeing the screenshots made it easier to understand the app being created. It also has a .gitignore file as the one above so it kind of helped me understand .gitignore a bit better. A few similarities in both files (.gitignore) were the types of files to be ignored within the app which includes: .dragle, .DS_store, .idea, build, local properties, and release properties.
+Link to repo: https://github.com/Skykai521/StickerCamera/blob/master/.gitignore
+
+Invoicing for freelancers and small businesses: I am so intrigued to find free servers that allows you to customize and use your own logo. Normally the first thing we would do is pay for hosting servers online and such. 
+Link to repo: https://github.com/madisvain/upcount
+
+50projects50days: I thought this was interesting because it reminded me of those 30 day challenge and to complete a challenge everyday. However, this is a mini web projects consisting of very different projects that allows you to interact with different projects to participate in daily. I thought it was interesting how the developer was able to jump from different topics from drinking water to dad jokes to atoms. Also, I appreciate the live demos for each project. The developers states that he does appreciate people wanting to contribute by adding new features or improving the projects, he is interested in requests looking at issues for bug fixes so the code stays in line with the course. 
+Link to repo: https://github.com/bradtraversy/50projects50days
+
+GPlanner: I was happy to find a “To Do List” app that allows u to “plan your life” as the program states. It is not something I will be using but very intrigued to find all kinds of programs on git. It makes sense to me now when I hear someone say they’ve create an app for leisure or just because. It always sounded so complicated to me.
+Link to repo: https://github.com/martin-danhier/GPlanner
